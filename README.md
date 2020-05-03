@@ -1,6 +1,6 @@
-# 2_wave_merging_simulation_imagenory_plane4
+# 2_wave_merging_simulation_imagenory_plane
 
-Merging in imagenory plan means collision of two waves making *90°* angle between propagation direction. Simply it means both wave moves perpendicular to eachother and colide at some point. 
+Merging in imagenory plane means collision of two waves making *90°* angle between propagation direction. Simply it means both wave moves perpendicular to eachother and colide at some point. 
 
 # about
 This project is created to show basic knowledge about *animation in matplotlib* library and to show its application in math.
@@ -14,7 +14,7 @@ Let Two waves X and Y,
  - X = Asin(at+b)
  - Y = Bsin(ct+d)
  
-This simulation shows that by changing the variable A,B,a,b,c,d how X and Y changes and if these two waves are merging in the imagenory plan means,
+This simulation shows that by changing the variable A,B,a,b,c,d how X and Y changes and if these two waves are merging in the imagenory plane means,
  - Z = X + i*Y    where, i = √-1
  
  Then how it makes amezing different graphs and different shapes.
@@ -31,7 +31,8 @@ This simulation shows that by changing the variable A,B,a,b,c,d how X and Y chan
 - Text Editor(PyCharm if possible)
 - Knowledge about *wave*
 - Knowledge about [Sine_wave](https://en.wikipedia.org/wiki/Sine_wave)
-- knowledge about [Conic_section](https://en.wikipedia.org/wiki/Conic_section)
+- Knowledge about [Conic_section](https://en.wikipedia.org/wiki/Conic_section)
+- Knowledge about [Imagenory numbers](https://en.wikipedia.org/wiki/Imaginary_number)
 - Knowledge of *basic math*
 
 ### Execution Process
