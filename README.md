@@ -1,6 +1,6 @@
 # 2_wave_merging_simulation_imagenory_plane4
 
-Merging in imagenory plan means collision of two waves making *90°* angle between propagation direction.Simply it means both wave moves perpendicular to eachother and colide at some point. 
+Merging in imagenory plan means collision of two waves making *90°* angle between propagation direction. Simply it means both wave moves perpendicular to eachother and colide at some point. 
 
 # about
 This project is created to show basic knowledge about *animation in matplotlib* library and to show its application in math.
